@@ -10,7 +10,7 @@ disqusShortname = "krevitte"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Kate Revitte"
+  tagline = "Designer"
   author = "Kate Revitte"
   description = "UX Designer and Consultant based in Milwaukee, WI focused on Design Thinking, Lean UX, and coaching enterprise clients"
   logoBig = "/images/krev-logo.png"
@@ -39,20 +39,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
   highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
 
-  # Choose either Formspree contact form or Basin contact form
-  ajaxFormspree = false
-  ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/64ce30f7a6e4"
-
-[[menu.main]]
-  name = "About"
-  url  = "/#about"
-  weight = 1
-[[menu.main]]
-  name = "Work"
-  url  = "/#work"
-  weight = 2
-[[menu.main]]
-  name = "Contact"
-  url  = "/#contact"
-  weight = 3
